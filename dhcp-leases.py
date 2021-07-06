@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 import datetime, bisect
 
 def parse_timestamp(raw_str):
